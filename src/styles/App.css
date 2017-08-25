@@ -1,0 +1,20 @@
+.App {
+  margin: 10px;
+}
+
+.card{
+  margin: 5px;
+}
+
+.form{
+  text-align: center;
+  background-color: white;
+  height: 100px;
+}
+.vehicles{
+	display: flex;
+	flex-wrap: wrap;
+}
+.headline{
+	font-size: 80px;
+}
